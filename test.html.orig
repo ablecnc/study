@@ -1,0 +1,18 @@
+<html>
+	<body>
+		<h1>브런치1</h1>
+		<h1>branch1</h1>
+		<h2>master-수정1</h2>
+		<h3>심험2-수정1</h3>
+		<h3>master-수정2</h3>
+<<<<<<< HEAD
+		<h4>master-수정3</h4>  
+		<h5>56666999</h5>
+		test1
+		<stage>stag</stage>
+=======
+		<h4>master-수정3</h4>
+		<h5>567</h5>
+>>>>>>> 실험3
+	</body>
+</html>
